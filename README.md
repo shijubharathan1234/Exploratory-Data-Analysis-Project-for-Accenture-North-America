@@ -24,7 +24,7 @@ to prove to them that we are the best firm to work with. They are expecting the 
  - Data Visualization.
  - Creating a Powerpoint Presentation
  - Story Telling. 
-## Project Insights
+## Project Insights and Conclusions
 PowerPoint Presentation
 ![Slide1](https://github.com/user-attachments/assets/d021ce24-58ef-4477-a9f6-3b4c00e3c95b)
 ![Slide2](https://github.com/user-attachments/assets/e8fd942c-2fc7-4eb5-a9b4-73667a4d0783)
@@ -40,5 +40,4 @@ PowerPoint Presentation
 
 <a href="https://github.com/shijubharathan1234/Exploratory-Data-Analysis-Project-for-Accenture-North-America/blob/main/Data%20Analytics%20PROJECT%20ACCENTURE%20-%20Task.pptx">Click here to View Presentation</a>
 
-## Final Conclusion
 
