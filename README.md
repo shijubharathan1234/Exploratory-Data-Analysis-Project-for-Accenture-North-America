@@ -38,6 +38,7 @@ PowerPoint Presentation
 ![Slide10](https://github.com/user-attachments/assets/c1bb220c-07ff-4a9e-8738-c9ce8b8e7265)
 ![Slide11](https://github.com/user-attachments/assets/2219001d-ade4-47f2-a15b-6a77ac57a30a)
 
-<a href="https://github.com/shijubharathan1234/Exploratory-Data-Analysis-Project-for-Accenture-North-America/blob/main/Data%20Analytics%20PROJECT%20ACCENTURE%20-%20Task.pptx">Click here to View Presentation</a>
+ - <a href="https://github.com/shijubharathan1234/Exploratory-Data-Analysis-Project-for-Accenture-North-America/blob/main/Data%20Analytics%20PROJECT%20ACCENTURE%20-%20Task.pptx">Click here to View Presentation File</a>
+ - <a href="https://github.com/shijubharathan1234/Exploratory-Data-Analysis-Project-for-Accenture-North-America/blob/main/social%20buzz%20presentation.mp4">Click here to View Presentation Video</a>
 
 
