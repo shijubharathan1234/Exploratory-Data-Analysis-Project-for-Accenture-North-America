@@ -13,12 +13,19 @@ to prove to them that we are the best firm to work with. They are expecting the 
  - An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity 
 ## Process
  - Identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
- - Cleaning Data
+ - Cleaning Data.
      - removing rows that have values which are missing,
      - changing the data type of some values within a column, and
      - removing columns which are not relevant to this task
          - Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
- - 
-Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
+ - Data Modeling.
+     - 1. Create a final data set by merging your three tables together
+       2. Figure out the Top 5 performing categories
+ - Data Visualization.
+ - Creating a Powerpoint Presentation
+ - Story Telling. 
+ 
+
 ## Project Insights
+
 ## Final Conclusion
